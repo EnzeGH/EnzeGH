@@ -1,15 +1,9 @@
-<div align="center">
-  <img src="https://i.imgur.com/Q8roZ5C.gif" width="25%" align="right"  />
-  <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=8B8BFA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Welcome+to+my+profile!;I%27m+Enze,+a+web+developer+from+Switzerland.+" width="70%" />
-  <br><br>
-  <pre>
-      💼 BSc @ CS • Fullstack Developer
-      💻 Specialized in Web Technologies
-      📖 Software architecture • Distributed systems
-      🎮 Music • Games • Anime • Code • Art
-  </pre>
-  <hr />
-</div>
+### Hello there 👋
+
+#### A Full-Stack Developer by night, and a Bug Hunter by day
+I'm passionate about coding, building projects, and constantly acquiring new skills. With a focus on web technologies, I also have a keen interest in expanding my expertise across various fields of software development.
+
+<hr />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
@@ -29,7 +23,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-
-<!--
-[![Discord Presence](https://lanyard.kyrie25.me/api/244563286257827840?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square)](https://discord.com/users/244563286257827840)
--->
