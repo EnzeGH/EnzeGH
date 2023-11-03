@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by night, and a Bug Hunter by day
+#### Full-Stack Developer by day, Bug Hunter by night
 I'm passionate about coding, building projects, and constantly acquiring new skills. With a focus on web technologies, I also have a keen interest in expanding my expertise across various fields of software development.
 
 <hr />
