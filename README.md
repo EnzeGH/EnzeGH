@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm passionate about coding, building projects, and constantly acquiring new skills. With a focus on web technologies, I also have a keen interest in expanding my expertise across various fields of software development.
 
-*© The profile picture(s) I use are not mine. I am currently using a profile picture made by [@taorotana](https://x.com/taorotana).*
+*© The profile picture(s) I use are not mine.*
 <hr />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -14,7 +14,8 @@ I'm passionate about coding, building projects, and constantly acquiring new ski
 ![Vercel](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=vercel)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
