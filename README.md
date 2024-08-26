@@ -1,7 +1,7 @@
 ### Hello there 👋
 I'm passionate about coding, building projects, and constantly acquiring new skills. With a focus on web technologies, I also have a keen interest in expanding my expertise across various fields of software development.
 
-*© The profile picture(s) I use are not mine.*
+*© The profile picture(s) I use are not mine. Current profile picture artist is [PaintPain](https://www.pixiv.net/en/users/78520424).*
 <hr />
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
